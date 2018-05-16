@@ -1,4 +1,4 @@
 name: Jason Cordes
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
