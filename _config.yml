@@ -2,3 +2,4 @@ name: Jason Cordes
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
