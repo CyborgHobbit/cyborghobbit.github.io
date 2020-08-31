@@ -1,4 +1,5 @@
 name: Jason Cordes
 markdown: kramdown
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
+remote_theme: ariestiyansyah/naringu
