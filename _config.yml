@@ -1,6 +1,6 @@
 name: Jason Cordes
 markdown: kramdown
-theme: midnight
+theme: jekyll-theme-midnight
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-feed
