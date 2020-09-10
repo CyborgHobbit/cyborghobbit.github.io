@@ -1,5 +1,7 @@
+minima:
+  skin: dark
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minima
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-feed
