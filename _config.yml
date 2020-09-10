@@ -1,4 +1,9 @@
 name: Jason Cordes
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-feed
+title: Cyborg Hobbit’s blog
+description: Welcome to my blog
+author: Cyborg Hobbit
